@@ -1,8 +1,19 @@
-# Updated 09th August, 2021
+## OwO || UwU ChatBot
+
+## Pls note the original bot (chatbot stuff) is coded by Zerosync!!
+
+# Edits ive made:
+
+- converted the full thing to OwO format
+
+
+
+
+## Zeros Readme
 
 ## Update Logs
 
-## • Bot has been fully Upgraded to D.js v13! 
+## • Bot has been fully Upgraded to D.js v13!
 
 ### • Inline replies added!
 
