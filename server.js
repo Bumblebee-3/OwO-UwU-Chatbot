@@ -6,7 +6,7 @@ const client = new Client({ intents: 513 });
 const smartestchatbot = require("smartestchatbot");
 const x = new smartestchatbot.Client();
 client.on("ready", () => {
-  console.log("Ready for chatting!| Bot by 0_0");
+  console.log("Ready for chatting!| Bot by Bumblebee");
 });
 client.on("messageCreate", async message => {
   // when client detects a message
@@ -28,7 +28,7 @@ client.on("messageCreate", async message => {
   x.chat({
     message: message.content,
     name: client.user.username,
-    owner: "Zero",
+    owner: "Bumblebee",
     user: message.author.id,
     language: "en"
   }).then(reply => {
